@@ -1,0 +1,6 @@
+{
+  "name": "NŌTO Café & Bakery",
+  "description": "Premium hospitality studio and artisan bakery creating thoughtful experiences through specialty coffee, ceremonial matcha, and bespoke gatherings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
